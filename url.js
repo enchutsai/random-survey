@@ -11,7 +11,5 @@
 
 const urls = [
 	'https://docs.google.com/forms/d/e/1FAIpQLSeMog-VOZ6Ca-22C-M4UobuE8_ejSFLBMwsUyEzzEERrWB_iA/viewform?usp=header',
-	'https://docs.google.com/forms/d/e/1FAIpQLSf-35mGOzRZVWHCTzYA4PBJ6-jMAYpt4KLuw5lq_bSQcY8tRQ/viewform?usp=header',
-	'https://docs.google.com/forms/d/e/1FAIpQLSdDd_Tr9pGr3ToRXEzA5O3nszkgC1dvmvADemKCTlcVKgVdYg/viewform?usp=header',
-	'https://docs.google.com/forms/d/e/1FAIpQLSdftdZFaWY9nV9xK_6TTlIFX-M3fPEFMp2aMXKry1J1A765Fw/viewform?usp=header'
+	'https://docs.google.com/forms/d/e/1FAIpQLSf-35mGOzRZVWHCTzYA4PBJ6-jMAYpt4KLuw5lq_bSQcY8tRQ/viewform?usp=header'
 ];
